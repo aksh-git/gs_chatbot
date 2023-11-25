@@ -4,7 +4,7 @@
 
 ## 1. Project Setup
 
- ### 1.1 Initialize a new Node.js project:
+### 1.1 Initialize a new Node.js project:
 Create a new Node.js project using `yarn init` to establish the project structure and package.json file, ensuring a clean starting point for development.
 
 ### 1.2 Install required packages:
